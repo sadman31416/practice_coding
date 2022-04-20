@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
 	FILE *in,*out;
-	char *fn1="image1.jpg";
-	char *fn2="imagecopy.jpg";
+	char *fn1="file location";//type your jpg file location here.
+	char *fn2="imagecopy.jpg";//you will find this image in the folder in which codes are had saved.
 	int x;
 	in=fopen(fn1,"rb");
 	if(in==NULL)
