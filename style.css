@@ -1,0 +1,20 @@
+body
+{
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    text-align: center;
+    background-color: black;  
+}
+.other
+{
+    color : green;
+    background-color: white;
+}
+.details
+{
+    color : white;
+    font-size :18px;
+    text-align: justify;
+    font-weight: lighter;
+}           
